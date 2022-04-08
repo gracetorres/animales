@@ -1,0 +1,96 @@
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.m-l-200{
+    margin-left: 200px;
+}
+
+
+.animalContainer{
+    background-color: blanchedalmond;
+    margin-top: 150px;
+    
+    
+}
+
+
+.bola{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+    
+}
+.m-r-10{
+    margin-right: 10px;
+}
+.m-b-10{
+    margin-bottom: 10px;
+}
+.m-t-10{
+    margin-top: 10px;
+}
+.m-l-10{
+    margin-left: 10px;
+}
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.align-items{
+    align-items: center;
+}
+
+.justify-content{
+    justify-content: center;
+}
+
+
+.blanco{
+    background-color: white;
+}
+
+.negro{
+    background-color: black;
+}
+.azul{
+    background-color: skyblue;
+}
+.rosado{
+    background-color: pink;
+}
+.marron{
+    background-color: rgb(63, 38, 38);
+}
+.naranja{
+    background-color: orange;
+}
+.plomo{
+    background-color: gray;
+}
+
+.letraBlanca{
+    color: white;
+}
+
+.m-r-5{
+    margin-right: 5px;
+}
+
+.divNegros{
+    width: 50%;
+    background-color: aquamarine;
+}
+
+.divTodos{
+    width: 50%;
+    background-color: coral;
+}
